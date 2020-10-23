@@ -35,6 +35,7 @@ There also is a statistically significant differences in the prices when comapri
 
 ![bathroom](./images/bathroom_vs_price.png)
 
+# Regression Analysis
 - Naive Model has a R Square: 0.703 and Root Mean Squared Error: 198865.03
 
 - Linear Regression has a R Square: 0.843 and Root Mean Squared Error: 151170.08 using SelectKBest. When comparing the RMSE, the Linear Regression performed the best. Therefore, I proceed to fit and train my model using the linear regression. 
