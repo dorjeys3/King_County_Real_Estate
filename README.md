@@ -43,9 +43,11 @@ There also is a statistically significant differences in the prices when comapri
 ![housing](./images/LR.png)
 
 - Log Tranformation Regression has a R Square: 0.7976322510661107 and Root Mean Squared Error: 157168.25 using SelectKBest. 
+
 ![housing](./images/Log.png)
 
-- Polynomial Second Degree Tranformation has a R Square: 352526.055 and Root Mean Squared Error: 392172.30 using SelectKBest.
+- Polynomial Second Degree Tranformation Root Mean Squared Error: 392172.30 using SelectKBest.
+
 ![housing](./images/poly.png)
 
 
