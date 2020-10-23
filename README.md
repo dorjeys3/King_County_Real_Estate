@@ -73,7 +73,7 @@ For additional information on the project and myself, please concat me at Dorjey
 # Repository Contents 
 >`images`:Folder with images used in the project
 
->`rawdata`:Folder with raw data used for data cleaning
+>`raw EDA`:Folder with raw data used for data cleaning
 
 >`Datasets`:Folder with all the data provided by Flatiron School and Brendan Ferris
 
