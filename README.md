@@ -35,6 +35,7 @@ There also is a statistically significant differences in the prices when comapri
 
 ![bathroom](./images/bathroom_vs_price.png)
 
+# Regression Analysis
 - Naive Model has a R Square: 0.703 and Root Mean Squared Error: 198865.03
 
 - Linear Regression has a R Square: 0.843 and Root Mean Squared Error: 151170.08 using SelectKBest. When comparing the RMSE, the Linear Regression performed the best. Therefore, I proceed to fit and train my model using the linear regression. 
@@ -60,25 +61,27 @@ There also is a statistically significant differences in the prices when comapri
 
 
 # Next Steps
+For my next steps, I would like to further explore the relationships between each variable.
+Currently, it is very unstable and buggy. Once I learn more about Machine Learning Algorithms, I would like to stabalize the code and its structure/syntax.
 
 
 
 # For more information
-Please read my [full analysis](https://github.com/dorjeys3/King_County_Real_Estate) for further clarification. 
-For additional information on the project and myself, please concat me at Dorjeys3@gmail.com 
+Please read my [full analysis](https://github.com/dorjeys3/King_County_Real_Estate/blob/master/Final%20Notebook.ipynb) for further clarification. 
+For additional information on the project and myself, please concat me at Dorjeys3@gmail.com or find me on twitter @dorjeys3 
 
 
 # Repository Contents 
 >`images`:Folder with images used in the project
 
->`rawdata`:Folder with raw data used for data cleaning
+>`raw EDA`:Folder with raw data used for data cleaning
 
->`zippedData`:Folder with all the data from imdb, tn, tmdb and bom provided by Flatiron School
+>`Datasets`:Folder with all the data provided by Flatiron School and Brendan Ferris
 
 >`.gitignore`:Please ignore
 
->`Microsot Movie Analysis.ipynb`:Cleaned data for [review](https://github.com/dorjeys3/Movies-Analysis/blob/master/Microsoft%20Movie%20Analysis.ipynb)
+>`Final Notebook.ipynb`:Cleaned data for [review](https://github.com/dorjeys3/Movies-Analysis/blob/master/Microsoft%20Movie%20Analysis.ipynb)
 
->`Movie Analysis Presentation`:PDF of my Presentation
+>`lm_final.pickle`:Pickle of my linear regression model
 
 >`README`:Preview file for GitHub Repo
