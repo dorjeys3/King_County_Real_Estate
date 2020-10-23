@@ -18,17 +18,21 @@ In this project, I will create predictive model that will predict the price of a
 - Does the grading received by a house really affect the pricing? 
 - Does the amount of bedroom affect the pricing? 
 - Does the waterfront view affect pricing? 
+
 ### Data Interpretation:
 There is a statistically significant difference in the prices when compared between the grades (p<0.05).  
 ![grade](./images/grade_vs_price.png)
 
 There is a statistically significant difference in the price when compared between the amount of bedrooms present at a house. However, it is not a linear relationship based on the evidence provided. 
+
 ![bedroom](./images/bedroom_vs_price.png)
 
 There is a statistically significant difference in the price between a house with a water front view and without a view. This figure, also illustrates that there is/are outliers in both groups. 
+
 ![waterfront](./images/waterfron_vs_price.png)
 
-There also is a statistically significant differences in the prices when comapring the amount of bathrooms present at a house. 
+There also is a statistically significant differences in the prices when comapring the amount of bathrooms present at a house.
+
 ![bathroom](./images/bathroom_vs_price.png)
 
 - Naive Model has a R Square: 0.703 and Root Mean Squared Error: 198865.03
